@@ -1,28 +1,28 @@
 /* Deep Executive Burgundy Theme */
 :root {
-    --primary-color: #800020;        /* Deep Burgundy */
-    --primary-dark: #580016;         /* Dark Burgundy */
-    --primary-light: #f4e8e6;        /* Soft Burgundy Tint */
-    --accent-color: #a32a48;         /* Rose Burgundy */
-    
-    --text-main: #2b211f;
-    --text-muted: #6b5b57;
-    --text-light: #9a8984;
-    
-    --bg-page: #f7f1ed;
-    --bg-surface: #fffdfb;
-    --bg-alt: #eee4df;
-    
-    --border-color: #ded0ca;
+    --primary-color: #7A3E32;       /* Warm brown-burgundy */
+    --primary-dark: #5C2D26;        /* Deep brown */
+    --primary-light: #F1E5DF;       /* Soft beige-pink */
 
-    --shadow-sm: 0 2px 8px rgba(91, 52, 43, 0.06);
-    --shadow-md: 0 10px 30px -5px rgba(91, 52, 43, 0.10);
-    --shadow-lg: 0 20px 40px -10px rgba(91, 52, 43, 0.14);
-      
+    --accent-color: #8B5E52;        /* Muted rose-brown */
+
+    --text-main: #302824;           /* Warm dark brown */
+    --text-muted: #6F625B;          /* Taupe */
+    --text-light: #9B8C84;
+
+    --bg-page: #e6c1a3;             /* Warm beige */
+    --bg-surface: #9e8973;          /* Cream */
+    --bg-alt: #c2a28b;              /* Light mocha */
+
+    --border-color: #907866;
+
+    --shadow-sm: 0 2px 8px rgba(78, 53, 45, 0.06);
+    --shadow-md: 0 10px 30px -5px rgba(78, 53, 45, 0.10);
+    --shadow-lg: 0 20px 40px -10px rgba(78, 53, 45, 0.14);
+
     --radius-sm: 8px;
     --radius-md: 16px;
     --radius-lg: 24px;
-    
     --transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
