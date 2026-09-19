@@ -10,9 +10,9 @@
     --text-muted: #6F625B;          /* Taupe */
     --text-light: #9B8C84;
 
-    --bg-page: #e6c1a3;             /* Warm beige */
-    --bg-surface: #9e8973;          /* Cream */
-    --bg-alt: #c2a28b;              /* Light mocha */
+    --bg-page: #f1ddcd;             /* Warm beige */
+    --bg-surface: #bda994;          /* Cream */
+    --bg-alt: #c9bbb1;              /* Light mocha */
 
     --border-color: #907866;
 
@@ -131,7 +131,7 @@ section {
 
 /* Hero Section */
 .hero {
-    min-height: 100vh;
+    min-height: 85vh;
     display: flex;
     align-items: center;
     justify-content: space-between;
